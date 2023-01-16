@@ -43,3 +43,68 @@ This is a project-based course designed to provide students training and experie
 | 15   | Tu: Apr 25  | Distribution shift methods 3                        |                                                                                                                                                                                |
 | 15   | Th: Apr 27  | Wrap-Up                                             | Bias Writeup Due on Friday                                                                                                                                                     |
 |      | Finals Week |                                                     | Final Reflection Writeup Due (Date TBD)                                                                                                                                        |
+
+## Detailed schedule and readings
+
+### Thursday 1/19: Project scoping
+
+Required Reading:
+* Data Science Project Scoping Guide. [Available Online](http://www.datasciencepublicpolicy.org/home/resources/data-science-project-scoping-guide/)
+
+Optional Readings:
+
+* Fine-grained dengue forecasting using telephone triage services by Rehman, NA, et al. Sci. Adv. 2016. [Available Online](https://nyunetworks.github.io/Pubs/rehman-science16.pdf)
+* Deconstructing Statistical Questions by Hand, D.J. J. Royal Stat Soc. A 157(3) 1994. [Available Online](http://stat688.bio5.org/sites/default/files/fall2014/hand-deconstructin.pdf)
+* Predictive Modeling for Public Health: Preventing Childhood Lead Poisoning by Potash, E, et al. KDD 2015. [Available Online](http://www.dssgfellowship.org/wp-content/uploads/2016/01/p2039-potash.pdf)
+
+### Tuesday 1/24: Project formulation and baselines
+ 
+ Required Readings (paper reflection covering one or both papers due before class)
+
+  - *Dissecting Racial Bias in an Algorithm Used to Manage the
+    Health of Populations* by Obermeyer, Z., Powers, B., et al.
+    Science. 2019. [Available
+    Online](https://github.com/bwilder0/mlpractice_s2023/blob/main/files/ObermeyerBias.pdf)
+
+  - *Problem Formulation and Fairness* by Passi and Barocas. FAT\*
+    2019. [Available
+    Online](https://github.com/bwilder0/mlpractice_s2023/blob/main/files/PassiFormulation.pdf)
+
+Optional Readings:
+
+  - *Always Start with a Stupid Model, No Exceptions* by Ameisen, E.
+    Medium. [Available
+    Online](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa)
+
+  - *Create a Common-Sense Baseline First* by Ramakrishnan. Medium.
+    [Available
+    Online](https://towardsdatascience.com/first-create-a-common-sense-baseline-e66dbf8a8a47)
+
+  - *Data Science for Business* by Provost and Fawcett. O’Reilly.
+    2013. Chapter 2: Business Problems and Data Science [Available
+    Online](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html)
+
+### Thursday 1/26: Model selection and performance metrics
+
+Required Reading:
+
+  - *Cross-validation strategies for data with temporal, spatial,
+    hierarchical, or phylogenetic structure* by Roberts, DR, Bahn,
+    V, et al. Ecography 40:2017. [Available
+    Online](https://github.com/bwilder0/mlpractice_s2023/blob/main/files/RobertsCV.pdf)
+
+Optional Readings:
+
+  - *Time Series Nested Cross-Validation* by Cochrane, C. Medium.
+    [Available
+    Online](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
+
+  - *The Secrets of Machine Learning* by Rudin, C. and Carlson, D.
+    arXiv preprint: 1906.01998. 2019. [Available
+    Online](https://arxiv.org/abs/1906.01998)
+
+  - *Big Data and Social Science (2nd edition)* edited by Foster,
+    Ghani, et al. Section 7.7 of Chapter 7: Machine Learning. [Available
+    Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
+
+
