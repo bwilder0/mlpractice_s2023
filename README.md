@@ -46,7 +46,7 @@ This is a project-based course designed to provide students training and experie
 
 ## Detailed schedule and readings
 
-### Thursday 1/19: Project scoping
+**Thursday 1/19: Project scoping**
 
 Required Reading:
 * Data Science Project Scoping Guide. [Available Online](http://www.datasciencepublicpolicy.org/home/resources/data-science-project-scoping-guide/)
@@ -57,9 +57,19 @@ Optional Readings:
 * Deconstructing Statistical Questions by Hand, D.J. J. Royal Stat Soc. A 157(3) 1994. [Available Online](http://stat688.bio5.org/sites/default/files/fall2014/hand-deconstructin.pdf)
 * Predictive Modeling for Public Health: Preventing Childhood Lead Poisoning by Potash, E, et al. KDD 2015. [Available Online](http://www.dssgfellowship.org/wp-content/uploads/2016/01/p2039-potash.pdf)
 
-### Tuesday 1/24: Project formulation and baselines
+---
+
+**Due Friday 1/20: Project groups**  
+
+---
+
+**Due Monday 1/23: Individual Assignment: Getting to know the class project**
+
+---
+
+**Tuesday 1/24: Project formulation and baselines**
  
- Required Readings (paper reflection covering one or both papers due before class)
+ Required Readings 
 
   - *Dissecting Racial Bias in an Algorithm Used to Manage the
     Health of Populations* by Obermeyer, Z., Powers, B., et al.
@@ -83,8 +93,8 @@ Optional Readings:
   - *Data Science for Business* by Provost and Fawcett. O’Reilly.
     2013. Chapter 2: Business Problems and Data Science [Available
     Online](https://learning.oreilly.com/library/view/data-science-for/9781449374273/ch02.html)
-
-### Thursday 1/26: Model selection and performance metrics
+---
+**Thursday 1/26: Model selection and performance metrics**
 
 Required Reading:
 
