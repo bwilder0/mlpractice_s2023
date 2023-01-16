@@ -46,6 +46,10 @@ This is a project-based course designed to provide students training and experie
 
 ## Detailed schedule and readings
 
+**Tuesday 1/17: Introduction**
+
+---
+
 **Thursday 1/19: Project scoping**
 
 Required Reading:
