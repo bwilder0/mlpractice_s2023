@@ -4,7 +4,7 @@ Instrutor: Bryan Wilder (bwilder@andrew.cmu.edu)
 
 TA: Ananya Joshi (aajoshi@andrew.cmu.edu)
 
-[Syllabus](https://docs.google.com/document/d/18XvxtumPDqGQ5rWCmBQpuSsEX_NUJY71Gy0JnTX7QAk/edit?usp=sharing)
+[Syllabus](https://github.com/bwilder0/mlpractice_s2023/blob/main/files/10-718%20syllabus.pdf)
 
 This is a project-based course designed to provide students training and experience in solving real-world problems using machine learning, exploring the interface between research and practice. The goal of this course is to give students exposure to the nuance of applying machine learning to the real-world, where common assumptions (like iid and stationarity) break down. Students will learn how to formulate real-world business or policy scenarios as machine learning problems, how to address common challenges which arise in applying ML to such problems (e.g., distribution shift or missingness), and how to rigorously evaluate the results of such interventions in practice (e.g., through designing randomized trials or observational studies). We will place an emphasis throughout on issues related to ethics and fairness in machine learning, and discuss how choices throughout the machine learning pipeline – including problem formulation, outcome definition, data collection, and model training – contribute to the social impact of algorithmic systems. 
 
