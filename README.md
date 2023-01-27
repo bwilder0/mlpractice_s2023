@@ -15,9 +15,9 @@ This is a project-based course designed to provide students training and experie
 | Week | Dates       | Topic                                               | Assignments                                                                                                                                                                    |
 |:----:|-------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | Tu: Jan 17  | [Class Intro and Overview](https://github.com/bwilder0/mlpractice_s2023/blob/main/files/Lecture1-ClassOverview.pptx)                            |                                                                                                                                                                                |
-| 1    | Th: Jan 19  | ML Project Scoping                                  | Project Team Selection                                                                                                                                                         |
-| 2    | Tu: Jan 24  | Analytical Formulation / Baselines                  | Individual Assignment: Getting to know the class project (due Monday)                                                                                                          |
-| 2    | Th: Jan 26  | Model Selection Methodology and Performance Metrics |                                                                                                                                                                                |
+| 1    | Th: Jan 19  | [ML Project Scoping](https://github.com/bwilder0/mlpractice_s2023/blob/main/files/Lecture2-Scoping.pptx)                                   | Project Team Selection                                                                                                                                                         |
+| 2    | Tu: Jan 24  | [Analytical Formulation / Baselines](https://github.com/bwilder0/mlpractice_s2023/blob/main/files/Lecture3-Formulation.pptx)                  | Individual Assignment: Getting to know the class project (due Monday)                                                                                                          |
+| 2    | Th: Jan 26  | Model Selection Methodology |                                                                                                                                                                                |
 | 3    | Tu: Jan 31  | Feature Engineering and Imputation                  | Project Assignment 1: Formulation and Baseline (due Monday)                                                                                                                    |
 | 3    | Th: Feb 2   | Case study session 1                                | Paper reflection 1 (due before class)                                                                                                                                          |
 | 4    | Tu: Feb 7   | Case study session 2                                | Paper reflection 2 (due before class)<br>Project Assignment 2:<br>Validation set up<br>Initial pipeline with train and validation set(s) and baseline implemented (due Monday) |
@@ -123,4 +123,19 @@ Optional Readings:
     Ghani, et al. Section 7.7 of Chapter 7: Machine Learning. [Available
     Online](https://textbook.coleridgeinitiative.org/chap-ml.html)
 
+---
+**Tuesday 1/31: Feature engineering, missing data, and imputation**
+
+   Optional Readings:
+
+     - *Missing Data Conundrum* by Akinfaderin, W. Medium. [Available
+       Online](https://medium.com/ibm-data-science-experience/missing-data-conundrum-exploration-and-imputation-techniques-9f40abe0fd87)
+
+     - *Feature Engineering for Machine Learning* by Zhang, A. and
+       Casari, A. O’Reilly. 2018. Chapter 2: Fancy Tricks with Simple
+       Numbers [Available
+       Online](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/)
+
+     - *Missing-data imputation* by Gelman, A. [Available
+       Online](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
 
