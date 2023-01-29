@@ -138,4 +138,15 @@ Optional Readings:
 
  - *Missing-data imputation* by Gelman, A. [Available
    Online](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
+   
+---
+**Thursday 2/2: Case study on bandits in maternal and child health**
+
+Required reading: Field Study in Deploying Restless Multi-Armed Bandits: Assisting Non-Profits in Improving Maternal and Child Health by Mate et al. [Available Online](https://ai4sibook.org/wp-content/uploads/2022/08/bandits_maternalchildcare-health.pdf)
+
+---
+**Tuesday 2/7: Case study on social networks and HIV prevention**
+
+Required reading: AI-augmented interventions for HIV prevention in youth experiencing homelessness by Wilder et al. [Available Online](https://ai4sibook.org/wp-content/uploads/2022/08/HIV_homeless-youth.pdf)
+
 
