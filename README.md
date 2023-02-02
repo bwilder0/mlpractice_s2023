@@ -21,11 +21,11 @@ This is a project-based course designed to provide students training and experie
 | 3    | Tu: Jan 31  | [Feature Engineering and Imputation](https://github.com/bwilder0/mlpractice_s2023/blob/main/files/Lecture5-Features.pptx)                  | Project Assignment 1: Formulation and Baseline (due Monday)                                                                                                                    |
 | 3    | Th: Feb 2   | Case study session 1                                | Paper reflection 1 (due before class)                                                                                                                                          |
 | 4    | Tu: Feb 7   | Case study session 2                                | Paper reflection 2 (due before class)<br>Project Assignment 2:<br>Validation set up<br>Initial pipeline with train and validation set(s) and baseline implemented (due Monday) |
-| 4    | Th: Feb 9   | Imputation + introduction to censored data  |                                                                                                                                                                                |
-| 5    | Tu: Feb 14  | Handling time in machine learning                   | Project Assignment 3:<br>list of features and some subset implemented (due Monday)                                                                                             |
-| 5    | Th: Feb 16  | Measurement error and validity                      | Paper reflection 3 (due before class)                                                                                                                                          |
+| 4    | Th: Feb 9   | Imputation + introduction to censored data  |   **Note: class is virtual today**                                                                                                                                                                             |
+| 5    | Tu: Feb 14  | Human-AI interaction 1                   | Project Assignment 3:<br>list of features and some subset implemented (due Monday)                                                                                             |
+| 5    | Th: Feb 16  | Human-AI interaction 2                      | Paper reflection 3 (due before class)                                                                                                                                          |
 | 6    | Tu: Feb 21  | Hands on: Review of modeling results                                | Project Assignment 4: <br>modeling results (due Monday)                                                                                                                        |
-| 6    | Th: Feb 23  |  Human-AI interaction               |                                                                                                                                                                                |
+| 6    | Th: Feb 23  |  Measurement and validity               |                                                                                                                                                                                |
 | 7    | Tu: Feb 28  | Hands on: model debugging and updates               | Updated model results assignment (+ model selection) Due Monday. Takehome midterm available Tuesday                                                                            |
 | 7    | Th: Mar 2   | No Class - Extra time for midterm/project work      | Midterm due Fri                                                                                                                                                                |
 | 8    | Tu: Mar 7   | No Class - Mid-semester break                       |                                                                                                                                                                                |
@@ -149,4 +149,10 @@ Required reading: Field Study in Deploying Restless Multi-Armed Bandits: Assisti
 
 Required reading: AI-augmented interventions for HIV prevention in youth experiencing homelessness by Wilder et al. [Available Online](https://ai4sibook.org/wp-content/uploads/2022/08/HIV_homeless-youth.pdf)
 
+---
+**Tuesday 2/7: Imputation + censoring and survival analysis**
+
+Class held virtually (link on Slack)
+
+Optional reading: Censoring Issues in Survival Analysis by Leung et al. [Available Online](https://www.annualreviews.org/doi/10.1146/annurev.publhealth.18.1.83)
 
