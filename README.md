@@ -150,7 +150,7 @@ Required reading: Field Study in Deploying Restless Multi-Armed Bandits: Assisti
 Required reading: AI-augmented interventions for HIV prevention in youth experiencing homelessness by Wilder et al. [Available Online](https://ai4sibook.org/wp-content/uploads/2022/08/HIV_homeless-youth.pdf)
 
 ---
-**Tuesday 2/7: Imputation + censoring and survival analysis**
+**Thursday 2/9: Imputation + censoring and survival analysis**
 
 Class held virtually (link on Slack)
 
