@@ -156,3 +156,14 @@ Class held virtually (link on Slack)
 
 Optional reading: Censoring Issues in Survival Analysis by Leung et al. [Available Online](https://www.annualreviews.org/doi/10.1146/annurev.publhealth.18.1.83)
 
+---
+**Tuesday 2/14: Human-AI interaction 1**
+
+Optional reading: Explainable Machine Learning for Public Policy: Use Cases, Gaps, and Research Directions by Amarasinghe, K., et al. arXiv preprint: arxiv/2010.14374 [Available Online](https://arxiv.org/abs/2010.14374)
+
+---
+**Thursday 2/:16 Human-AI interaction 2**
+
+Required reading: Effect of Confidence and Explanation on Accuracy and Trust Calibration in AI-Assisted Decision Making by Zhang, et al. FAT* 2020. [Available Online](https://arxiv.org/pdf/2001.02114.pdf)
+
+
