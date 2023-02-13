@@ -161,9 +161,13 @@ Optional reading: Censoring Issues in Survival Analysis by Leung et al. [Availab
 
 Optional reading: Explainable Machine Learning for Public Policy: Use Cases, Gaps, and Research Directions by Amarasinghe, K., et al. arXiv preprint: arxiv/2010.14374 [Available Online](https://arxiv.org/abs/2010.14374)
 
+Optional reading: Optimized Scoring Systems: Toward Trust in Machine Learning for Healthcare and Criminal Justice by Ustun and Rudin. INFORMS Journal on Applied Analytics [Available Online](https://users.cs.duke.edu/~cynthia/docs/WagnerPrizeCurrent.pdf)
+
 ---
 **Thursday 2/:16 Human-AI interaction 2**
 
-Required reading: Effect of Confidence and Explanation on Accuracy and Trust Calibration in AI-Assisted Decision Making by Zhang, et al. FAT* 2020. [Available Online](https://arxiv.org/pdf/2001.02114.pdf)
+Required reading: Effect of Confidence and Explanation on Accuracy and Trust Calibration in AI-Assisted Decision Making by Zhang et al. FAT* 2020. [Available Online](https://arxiv.org/pdf/2001.02114.pdf)
+
+Optional reading: Explainable machine-learning predictions for the prevention of hypoxaemia during surgery by Lundberg et al. Nature Biomedical Engineering 2018. [Available Online](https://www.nature.com/articles/s41551-018-0304-0.pdf)
 
 
