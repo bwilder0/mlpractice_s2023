@@ -175,4 +175,14 @@ Optional reading: Explainable machine-learning predictions for the prevention of
 
 Required reading: AI for Food Rescue by Shi et al. [Available Online](https://ai4sibook.org/wp-content/uploads/2022/08/Food-Rescue.pdf)
 
+---
+**Thursday 3/16: ML ethics**
+
+Reading TBD
+
+---
+**Tuesday 3/21: Fairness introduction**
+
+Required reading: Measurement and Fairness, by Jacobs and Wallach. FAccT 2021. [Available Online](https://arxiv.org/abs/1912.05511)
+
 
