@@ -39,11 +39,11 @@ This is a project-based course designed to provide students training and experie
 | 12   | Tu: Apr 4   | Field Trials and Causal Inference 1                 | Paper reflection 6 (due before class)                                                                                                                                          |
 | 12   | Th: Apr 6   | Field Trials and Causal Inference 2                 |                                                                                                                                                                                |
 | 13   | Tu: Apr 11  | Field Trials and Causal Inference 3                 | Paper reflection 7 (due before class)                                                                                                                                          |
-| 13   | Th: Apr 13  | Distribution shift overview                         |                                                                                                                                                                                |
-| 14   | Tu: Apr 18  | Distribution shift methods 1                        |                                                                                                                                                                                |
-| 14   | Th: Apr 20  | Distribution shift methods 2                        |                                                                                                                                                                                |
-| 15   | Tu: Apr 25  | Distribution shift methods 3                        |                                                                                                                                                                                |
-| 15   | Th: Apr 27  | Wrap-Up                                             | Bias Writeup Due on Friday                                                                                                                                                     |
+| 13   | Th: Apr 13  | Uncertainty quantification overview                         |                                                                                                                                                                                |
+| 14   | Tu: Apr 18  | Uncertainty quantification methods 1                        |                                                                                                                                                                                |
+| 14   | Th: Apr 20  | Uncertainty quantification methods 2                        |                                                                                                                                                                                |
+| 15   | Tu: Apr 25  | Uncertainty quantification methods 3                        |                                                                                                                                                                                |
+| 15   | Th: Apr 27  | Wrap-Up                                             | UQ Writeup Due on Friday                                                                                                                                                     |
 |      | Finals Week |                                                     | Final Reflection Writeup Due (Date TBD)                                                                                                                                        |
 
 ## Detailed schedule and readings
@@ -184,5 +184,20 @@ Reading TBD
 **Tuesday 3/21: Fairness introduction**
 
 Required reading: Measurement and Fairness, by Jacobs and Wallach. FAccT 2021. [Available Online](https://arxiv.org/abs/1912.05511)
+
+
+## Fairness and Uncertainty Quantification Modules
+
+Each module will span three class sessions. Within each class session, we will cover 2-3 methods, each of which will be presented by one of the groups. 
+
+* For the day that your group presents, you will give a 20-25 min talk. This talk should present an overview to the class of what problem the method solves and how it works. Then, you should show results from applying this method to your project and discuss the strengths and weaknesses of the method. Accordingly, you must finish implementing this method and analyzing the results by the class session you present in. 
+
+* We will release a signup sheet for groups to sign up for methods/times on a first-come-first-serve basis. 
+
+* For each of the sessions that your group does not present in, you should choose one method to implement (no need to sign up, just pick whichever of the methods from that day you like). By the end of the module, each group will have implemented three methods in total (the one that you implement for your presentation plus two more from the other sessions). At the end of the module, your group will produce an extended technical abstract, 4-5 pages in length (using the NeurIPS template) which provides an overview of the three methods you implemented, describes how they were applied in the context of your project, discusses the results of applying these methods, and makes recommendations about the context in which each method may be more or less suitable.  
+
+Each such module contributes 15% of your grade, of which 5% will come from the presentation (clearly presenting the method to the class, implementing it in time for the class session, and discussing your lessons learned) and 10% will come from the writeup. 
+
+One note: many of the questions that we study are only "interesting" if the accuracy of the underlying ML system is reasonably strong but less than 100% (e.g., there may not be fairness concerns about differences in error rates across groups if the system gives the right prediction on every single instance). Depending on your problem formulation and the state of the ML pipeline you've developed, you may consider making the ML problem easier or harder (e.g. by adjusting the amount of time for information to accumulate before making a prediction). 
 
 
