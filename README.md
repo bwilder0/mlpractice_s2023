@@ -192,7 +192,7 @@ Each module will span three class sessions. Within each class session, we will c
 
 * For the day that your group presents, you will give a 20-25 min talk. This talk should present an overview to the class of what problem the method solves and how it works. Then, you should show results from applying this method to your project and discuss the strengths and weaknesses of the method. Accordingly, you must finish implementing this method and analyzing the results by the class session you present in. 
 
-* You may either implement the method from the paper yourself, or use an existing implementation. If you implement the method yourself, comment on what made this process easier or harder (e.g., how complicated is the method to implement? is it numerically stable? does it have a lot of tricky hyperparameters or other decisions in implementation?). If you use an existing implemention, we expect a correspondingly more thorough analysis.
+* You may either implement the method from the paper yourself, or use an existing implementation. If you implement the method yourself, comment on what made this process easier or harder (e.g., how complicated is the method to implement? is it numerically stable? does it have a lot of tricky hyperparameters or other decisions in implementation?). If you use an existing implemention, we expect a correspondingly more thorough analysis of the process of applying the method yourself and the results (since you're saving time on the implementation).
 
 * We will release a signup sheet for groups to sign up for methods/times on a first-come-first-serve basis. 
 
