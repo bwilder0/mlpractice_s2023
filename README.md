@@ -178,7 +178,10 @@ Required reading: AI for Food Rescue by Shi et al. [Available Online](https://ai
 ---
 **Thursday 3/16: ML ethics**
 
-Reading TBD
+Optional reading: The Fallacy of AI Functionality by Raji et al. [Available Online](https://dl.acm.org/doi/pdf/10.1145/3531146.3533158)
+
+Optional reading: Hidden in Plain Sight — Reconsidering the Use of Race Correction in Clinical Algorithms by Vyas et al. [Available Online](https://www.nejm.org/doi/full/10.1056/NEJMms2004740)
+
 
 ---
 **Tuesday 3/21: Fairness introduction**
