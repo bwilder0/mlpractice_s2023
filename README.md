@@ -188,6 +188,7 @@ Optional reading: Hidden in Plain Sight — Reconsidering the Use of Race Correc
 
 Required reading: Measurement and Fairness, by Jacobs and Wallach. FAccT 2021. [Available Online](https://arxiv.org/abs/1912.05511)
 
+Optional reading: The Measure and Mismeasure of Fairness by Corbett-Davies and Goel. [Available Online](https://arxiv.org/pdf/1808.00023.pdf)
 
 ## Fairness and Uncertainty Quantification Modules
 
