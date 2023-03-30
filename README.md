@@ -190,6 +190,19 @@ Required reading: Measurement and Fairness, by Jacobs and Wallach. FAccT 2021. [
 
 Optional reading: The Measure and Mismeasure of Fairness by Corbett-Davies and Goel. [Available Online](https://arxiv.org/pdf/1808.00023.pdf)
 
+
+---
+**Tuesday 4/4: Causality and field trials 1**
+
+Required reading: Introduction to Randomized Evaluations, by Gibson and Sautmann. [Available Online](https://www.povertyactionlab.org/resource/introduction-randomized-evaluations)
+
+---
+**Tuesday 4/11: Uncertainty quantification introduction**
+
+Required reading: Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods, Sections 1-3, by Hüllermeier and Waegeman. [Available Online](https://arxiv.org/pdf/1910.09457.pdf)
+
+
+
 ## Fairness and Uncertainty Quantification Modules
 
 Each module will span three class sessions. Within each class session, we will cover 2-3 methods, each of which will be presented by one of the groups. 
