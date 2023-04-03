@@ -196,6 +196,9 @@ Optional reading: The Measure and Mismeasure of Fairness by Corbett-Davies and G
 
 Required reading: Introduction to Randomized Evaluations, by Gibson and Sautmann. [Available Online](https://www.povertyactionlab.org/resource/introduction-randomized-evaluations)
 
+Optional reading: Randomized Experiments, by Coston, Dulce Rubio, and Kennedy. [Available Online](https://ai4sibook.org/wp-content/uploads/2022/08/randomized-experiments.pdf)
+
+
 ---
 **Tuesday 4/11: Uncertainty quantification introduction**
 
