@@ -198,6 +198,10 @@ Required reading: Introduction to Randomized Evaluations, by Gibson and Sautmann
 
 Optional reading: Randomized Experiments, by Coston, Dulce Rubio, and Kennedy. [Available Online](https://ai4sibook.org/wp-content/uploads/2022/08/randomized-experiments.pdf)
 
+---
+**Thursday 4/6: Causality and field trials 2**
+
+Optional reading: Difference-in-Differences, by Zeldow, Hatfield, et al. [Available Online](https://diff.healthpolicydatascience.org/#introduction)
 
 ---
 **Tuesday 4/11: Uncertainty quantification introduction**
